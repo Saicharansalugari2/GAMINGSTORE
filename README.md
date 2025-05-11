@@ -2,8 +2,6 @@
 
 A visually stunning 3D Gaming Store web experience built with React.js, GSAP, and Tailwind CSS. This immersive storefront combines interactive 3D visuals with smooth animations and responsive design to deliver a modern e-commerce feel tailored for gaming products.
 
-![Preview](./public/gaming-store-preview.png)
-
 ---
 
  🚀 Features
